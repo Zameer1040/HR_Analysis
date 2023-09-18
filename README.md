@@ -1,6 +1,6 @@
 # HR Attrition Analysis
 
-![Banner Image](https://github.com/YourUsername/HR_Attrition_Analysis/blob/main/banner_image.png)
+![](https://github.com/Zameer1040/HR_Analysis/blob/main/HR_Banner.jpg)
 
 ---
 
