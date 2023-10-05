@@ -10,20 +10,21 @@ This project focuses on analyzing and understanding employee attrition within th
 
 ### Dataset
 
-- Project Name: HR Attrition Analysis
-- Dataset Name: EmployeeAttrition.csv
-- Dataset Type: CSV Data
-- Dataset Size: Approximately 1,000 records
+- Project Name: Employee Retention
+- Dataset Name: HR_1 and HR_2
+- Dataset Type: Excel Data
+- Dataset Size: 50,000 records each
 
 ## Problem Statement
 
 The key areas of analysis include:
 
-- Identifying the main factors contributing to employee attrition.
-- Understanding the demographics of employees leaving the company.
-- Analyzing job satisfaction and its impact on attrition.
-- Identifying patterns related to salary and attrition.
-- Exploring the relationship between employee performance and attrition.
+- Average Attrition rate for all Departments.
+- Average Hourly rate of Male Research Scientist.
+- Attrition rate Vs Monthly income stats.
+- Average working years for each Department.
+- Job Role Vs Work life balance.
+- Attrition rate Vs Year since last promotion relation
 
 ## Skills/Concepts Demonstrated
 
@@ -31,9 +32,16 @@ This project demonstrates proficiency in:
 
 - Data cleaning and preprocessing.
 - Exploratory Data Analysis (EDA).
-- Data visualization with Matplotlib and Seaborn.
+- Power BI (Bookmarking, DAX, Quick Measures, Modelling, Filters, Tooltips.)
 - Statistical analysis to derive insights.
-- Machine learning models for attrition prediction.
+- MySQL (Joins, Group by, Having, Window Functions, View, Aggregate Functions.)
+  
+## Modelling
+Created a Data Model Between HR_1 and HR_2 as one to many relationship.
+![]()
+
+
+
 
 ## Analysis & Visualizations
 
