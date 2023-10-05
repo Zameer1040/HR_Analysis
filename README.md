@@ -91,7 +91,7 @@ The analysis is presented through various visualizations and insights, including
    - Salary distribution.
    - Attrition by salary level.
 
-5.Job Role Vs Work life balance:
+5. Job Role Vs Work life balance:
 
    ![](https://github.com/Zameer1040/HR_Analysis/blob/main/KPI%205.jpg)
 
