@@ -65,45 +65,41 @@ The analysis is presented through various visualizations and insights, including
 
    ![](https://github.com/Zameer1040/HR_Analysis/blob/main/KPI%201.jpg)
 
-   - Age distribution of employees.
-   - Gender distribution among employees.
+   - Attrition of employees by department.
    - Distribution of employees by department.
 
 2. Average Hourly rate of Male Research Scientist:
 
    ![](https://github.com/Zameer1040/HR_Analysis/blob/main/KPI%202.jpg)
 
-   - Factors contributing to employee attrition.
-   - Attrition by job role.
-   - Attrition by education level.
+   - Factors contributing to employee job role.
 
 3. Attrition rate Vs Monthly income stats:
 
    ![](https://github.com/Zameer1040/HR_Analysis/blob/main/KPI%203.jpg)
 
-   - Job satisfaction levels among employees.
-   - Correlation between job satisfaction and attrition.
+   - Monthly Salary stats among employees.
+   - Correlation between attrition vs income stats.
 
 4. Average working years for each Department:
 
    ![](https://github.com/Zameer1040/HR_Analysis/blob/main/KPI%204.jpg)
 
    - Salary distribution.
-   - Attrition by salary level.
+   - Attrition by working years.
 
 5. Job Role Vs Work life balance:
 
    ![](https://github.com/Zameer1040/HR_Analysis/blob/main/KPI%205.jpg)
 
    - Employee performance distribution.
-   - Attrition by performance rating.
+   - Attrition by worklife balance.
 
 6. Attrition rate Vs Year since last promotion relation:
 
    ![](https://github.com/Zameer1040/HR_Analysis/blob/main/KPI%206.jpg)
 
-   - Employee performance distribution.
-   - Attrition by performance rating.
+   - Attrition by promotion by years.
 
 ## Conclusion
 
